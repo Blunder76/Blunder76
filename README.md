@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Blunder76
-- 👀 I’m interested in Artificial Intelligence.
+- 👋 Hi, I’m Kusum.
+- 👀 I’m interested in Artificial Intelligence and machine learning.
 - 💞️ I’m looking to collaborate on a machine learning projects.
 - 📫 basnetkusum13@gmail.com
 
