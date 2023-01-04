@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kusum.
-- 👀 I’m interested in Artificial Intelligence and machine learning.
-- 💞️ I’m looking to collaborate on a machine learning projects.
+- 💞️ I’m interested in Artificial Intelligence and machine learning.
 - 📫 basnetkusum13@gmail.com
 
 <!---
